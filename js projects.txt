@@ -1,0 +1,22 @@
+Javascript projects
+
+1. A clock
+2. Musical instruments- pat a tap.com
+3.calculator
+4.color game
+5.SIP compound interest calculator
+6.simple games 
+7. complex games
+8. To do list  
+9. UI components
+10.Weather API
+11.path finding visualiser/ sorting 
+12. multiperson to do list 
+13. Address book
+14. online code editor
+15. student result management system
+16. contest notifier
+17.make clone and add specific or modify it or  
+18. vegitable sellers hawkers like ola or uber 
+19. local shops websites 
+20.event organiser 
